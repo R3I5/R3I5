@@ -5,8 +5,19 @@
 - No momento estou me dedicando a aprender a linguagem Python e meu próximo objetivo é o JavaScript
 - Sou formado em técnico em eletrônica pelo IFPR - Instituto Federal do Paraná e lá tive experiências com a linguagem C, além de outros conhecimentos na área.
 
-## Estou estudando: 
-<img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" /> <img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />
+## 📚 Aprendizado atual
+- Python (estruturas de dados, automação, projetos)
+- Git e GitHub (controle de versão)
+
+## 🔜 Próximos passos
+- JavaScript 
+- Projetos Web com HTML + CSS + JS
+
+## 🛠️ Tecnologias e Ferramentas
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
 
 ## Contatos:
 <div>
