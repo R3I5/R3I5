@@ -6,8 +6,7 @@
 - Sou formado em técnico em eletrônica pelo IFPR - Instituto Federal do Paraná e lá tive experiências com a linguagem C, além de outros conhecimentos na área.
 
 ## Estou estudando
-<img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" /> 
-<img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />
+<img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="40" height="40" /> <img loading = "lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />
 
 ## Contatos:
 <div>
