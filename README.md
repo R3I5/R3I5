@@ -1,6 +1,6 @@
 # Olá! Bem-vindo ao meu perfil no Github
 ## Meu nome é João Victor dos Reis da Silva, mas pode me chamar de Reis!
-- Estudante de BES(Bacharelado em Engenharia de Software) na PUCPR - Pontifícia Universidade Católica do Paraná.
+- Estudante de BES (Bacharelado em Engenharia de Software) na PUCPR - Pontifícia Universidade Católica do Paraná.
 - Ainda não trabalho na área, mas estou estudando para conseguir uma vaga de estágio o quanto antes.
 - No momento estou me dedicando a aprender a linguagem Python e meu próximo objetivo é o JavaScript
 - Sou formado em técnico em eletrônica pelo IFPR - Instituto Federal do Paraná e lá tive experiências com a linguagem C, além de outros conhecimentos na área.
