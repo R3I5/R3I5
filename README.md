@@ -6,6 +6,7 @@
 
 ## 📚 Aprendizado atual
 - Python (estruturas de dados, automação, projetos)
+- Java (Programação orientada a objetos)
 - Git e GitHub (controle de versão)
 
 ### 🔜 Próximos passos
