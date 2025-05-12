@@ -5,6 +5,7 @@
 - Sou formado em técnico em eletrônica pelo IFPR - Instituto Federal do Paraná e lá tive experiências com a linguagem C, além de outros conhecimentos na área.
 
 ## 📚 Aprendizado atual
+- PHP (foco em backend, criação de APIs e manipulação de banco de dados com MySQL)
 - Python (estruturas de dados, automação, projetos)
 - HTML & CSS
 - Git e GitHub (controle de versão)
