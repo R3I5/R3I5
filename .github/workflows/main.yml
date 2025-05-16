@@ -19,7 +19,7 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email j.victor.reis20044@gmail.com
+          git pull --rebase origin main || echo "No remote changes or already up to date"
           git add -A .
           git commit -m "generated" || echo "No changes to commit"
-          git pull --rebase origin main
           git push origin main
