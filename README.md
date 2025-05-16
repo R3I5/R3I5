@@ -30,7 +30,7 @@
 
 ## Meu Perfil 3D — Tema Noturno Verde
 
-![Perfil 3D Noturno Verde](./profile3d/profile-night-green.svg)
+![Perfil 3D Noturno Verde](./profile-3d-contrib/profile-night-green.sv)
 
 
 <div>
