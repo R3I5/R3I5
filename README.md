@@ -28,7 +28,7 @@
   </a>
 </div>
 
-![Perfil 3D Noturno Verde](./profile-3d-contrib/profile-green-animate.svg)
+![Perfil 3D Noturno Verde](./profile-3d-contrib/profile-south-season-animate.svg)
 
 
 <div>
