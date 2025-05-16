@@ -28,7 +28,7 @@
   </a>
 </div>
 
-![Perfil 3D Noturno Verde](./profile-3d-contrib/profile-night-view.svg)
+![Perfil 3D Noturno Verde](profile-night-green.svg)
 
 
 <div>
