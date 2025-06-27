@@ -56,9 +56,9 @@ Estas são as tecnologias com as quais tenho trabalhado e estudado:
 ---
 ### [Sistema de Gestão de Vendas e Estoque com Interface Gráfica](https://github.com/R3I5/ProjetoFinalRacAlgoritmico/tree/interface-grafica)
 <p>
-  Projeto desenvolvido em Python que simula um Ponto de Venda (PDV) completo. A aplicação, que começou como um sistema de console, foi aprimorada com uma interface gráfica para tornar a experiência do usuário mais amigável e intuitiva. Inclui funcionalidades como controle de acesso por usuário, gestão de produtos (CRUD), registro de vendas com baixa de estoque e um módulo financeiro com relatórios.
+  Projeto desenvolvido em Python que simula um Ponto de Venda (PDV) completo. A aplicação, que começou como um sistema de console, foi aprimorada com uma interface gráfica para tornar a experiência do usuário mais amigável e intuitiva. Inclui funcionalidades como controle de acesso por usuário, gestão de produtos (CRUD), registro de vendas com baixa de estoque e um módulo financeiro com relatórios. Link para o <a href="https://github.com/R3I5/ProjetoFinalRacAlgoritmico/tree/interface-grafica target="_black">repositório</a>
   <br><br>
-  <strong>Tecnologias:</strong> Python, [Nome da Biblioteca Gráfica], Manipulação de arquivos (CSV/JSON).
+  <strong>Tecnologias:</strong> Python, customTKINTER, Manipulação de arquivos (CSV/JSON).
 </p>
 
 ---
