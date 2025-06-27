@@ -16,8 +16,6 @@ Hoje, meu foco é o **desenvolvimento Backend**, utilizando essa base lógica pa
 
 Estas são as tecnologias com as quais tenho trabalhado e estudado:
 
-## 🛠️ Minha Tech Stack
-
 <div align="center">
   <table border="0" cellpadding="10">
     <thead>
@@ -53,19 +51,6 @@ Estas são as tecnologias com as quais tenho trabalhado e estudado:
   </table>
 </div>
 
-### Banco de Dados & Ferramentas
-<div align="center">
-<table>
-  <tr>
-    <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></td>
-    <td><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></td>
-  </tr>
-</table>
-</div>
 ## 🚀 Projetos em Destaque
 
 **Atenção, Reis:** Esta é a seção **MAIS IMPORTANTE**. Você deve fixar (pin) seus melhores repositórios no seu perfil e listá-los aqui. Mesmo que sejam projetos da faculdade, descreva-os bem!
