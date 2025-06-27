@@ -44,9 +44,9 @@ Estas são as tecnologias com as quais tenho trabalhado e estudado:
           <br><br>
           <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
           <br><br>
-          <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-          <br><br>
           <img src="https://img.shields.io/badge/Ubuntu-35495E?style=for-the-badge&logo=ubuntu&logoColor=2CA5E0" />
+          <br><br>
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
           <br><br>
         </td>
       </tr>
