@@ -10,7 +10,7 @@
 
 Sou um entusiasta de tecnologia e estudante de **Engenharia de Software** na PUCPR. Minha jornada na programação começou com uma base sólida em **Técnico em Eletrônica** pelo IFPR, onde desenvolvi uma paixão pela resolução de problemas e tive meu primeiro contato com programação em C.
 
-Hoje, meu foco é o **desenvolvimento Backend**, utilizando essa base lógica para construir sistemas eficientes e escaláveis. Estou buscando ativamente uma **oportunidade de estágio** para aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para projetos desafiadores.
+Hoje, meu foco é o **desenvolvimento Backend**. Estou buscando ativamente uma **oportunidade de estágio** para aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para projetos desafiadores.
 
 ## 🛠️ Minha Tech Stack
 
