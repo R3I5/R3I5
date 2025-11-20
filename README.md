@@ -9,11 +9,11 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou estudante de **Engenharia de Software** na PUCPR e **Técnico em Eletrônica** formado pelo IFPR. Essa combinação me permite transitar entre o hardware e o software com facilidade.
+Sou estudante de **Engenharia de Software** na PUCPR e **Técnico em Eletrônica** pelo IFPR.
 
-Minha paixão é criar soluções que conectam o mundo físico ao digital. Tenho experiência prática na montagem de circuitos, leitura de datasheets e programação de microcontroladores, aliada às boas práticas de engenharia de software.
+Minha trajetória começou na eletrônica e evoluiu para o desenvolvimento de software. Hoje, possuo uma **forte base em desenvolvimento Web e aplicações Full Stack**, e meu objetivo é unir esses dois mundos: criar interfaces robustas que se conectam a dispositivos físicos e soluções embarcadas.
 
-Atualmente, busco uma oportunidade de estágio em **Desenvolvimento de Software Embarcado** para aplicar meus conhecimentos em C++, IoT e Python em projetos reais e desafiadores.
+Busco uma oportunidade de estágio em **Desenvolvimento de Software** onde eu possa aplicar minha versatilidade, seja criando a lógica de um microcontrolador em C++ ou desenvolvendo a interface de controle desse sistema na Web.
 
 ## 🛠️ Minha Tech Stack
 
@@ -21,35 +21,41 @@ Atualmente, busco uma oportunidade de estágio em **Desenvolvimento de Software 
   <table border="0" cellpadding="10">
     <thead>
       <tr>
-        <th align="center">Linguagens (Foco Embarcados)</th>
-        <th align="center">IoT, Hardware & Ferramentas</th>
-        <th align="center">Web & Banco de Dados</th>
+        <th align="center">Desenvolvimento Web & Software</th>
+        <th align="center">Engenharia, Hardware & IoT</th>
+        <th align="center">Banco de Dados & Ferramentas</th>
       </tr>
     </thead>
     <tbody>
       <tr>
         <td align="center" valign="top">
-          <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
           <br><br>
-          <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+          <br><br>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+          <br><br>
+          <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
           <br><br>
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
         </td>
         <td align="center" valign="top">
+          <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+          <br><br>
+          <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+          <br><br>
           <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
           <br><br>
           <img src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-          <br><br>
-          <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-          <br><br>
-          <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
         </td>
         <td align="center" valign="top">
-          <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-          <br><br>
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
           <br><br>
           <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+          <br><br>
+          <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+          <br><br>
+          <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
         </td>
       </tr>
     </tbody>
@@ -59,18 +65,18 @@ Atualmente, busco uma oportunidade de estágio em **Desenvolvimento de Software 
 ## 🚀 Projetos em Destaque
 
 ---
-### 📡 [Sistema de Monitoramento IoT com ESP32](https://github.com/R3I5/gasSensor))
+### 📡 [Sistema de Monitoramento IoT Integrado à Web](https://github.com/R3I5/gasSensor)
 <p>
-  Projeto de sistema embarcado focado em segurança residencial. Utiliza um microcontrolador ESP32 programado em <strong>C++</strong> para leitura de sensores de gás (MQ-02) e integração via Wi-Fi com uma interface Web para monitoramento em tempo real.
+  Projeto que demonstra a integração entre Hardware e Web. Utiliza um <strong>ESP32 (C++)</strong> para leitura de sensores de gás (MQ-02) e envia os dados via Wi-Fi para uma interface de monitoramento desenvolvida com tecnologias Web.
   <br><br>
-  <strong>Tecnologias:</strong> C++, ESP32, Sensores, IoT, HTML/CSS (Interface Web).
+  <strong>Tecnologias:</strong> C++, ESP32, Sensores, HTML, CSS, Protocolos Web.
 </p>
 
 ---
 
 ### 💻 [Sistema de Gestão Desktop (CRUD)](https://github.com/R3I5/ProjetoFinalRacAlgoritmico/tree/interface-grafica)
 <p>
-  Aplicação Desktop completa desenvolvida em <strong>Python</strong>. O sistema conta com uma interface gráfica moderna (CustomTkinter) e realiza o gerenciamento de vendas e estoque, manipulando dados estruturados em arquivos locais.
+  Aplicação Desktop desenvolvida em <strong>Python</strong> com interface gráfica (CustomTkinter). Realiza gerenciamento completo de vendas e estoque, demonstrando lógica de programação e manipulação de arquivos.
   <br><br>
   <strong>Tecnologias:</strong> Python, CustomTkinter, Manipulação de Arquivos (CSV/JSON).
 </p>
@@ -81,9 +87,9 @@ Atualmente, busco uma oportunidade de estágio em **Desenvolvimento de Software 
 
 Sempre buscando evoluir, atualmente estou aprofundando meus conhecimentos em:
 
--   **C++ Avançado e STL:** Para otimização de código e performance.
--   **Sistemas Embarcados:** Aprofundando em arquitetura de microcontroladores.
--   **Estruturas de Dados:** Fortalecendo a base para algoritmos complexos.
+-   **Integração Hardware-Software:** Protocolos de comunicação e sistemas embarcados.
+-   **Laravel Framework:** Para desenvolvimento de APIs robustas.
+-   **Algoritmos em C++:** Para otimização e performance em baixo nível.
 
 ## 📫 Conecte-se Comigo!
 
