@@ -59,7 +59,7 @@ Atualmente, busco uma oportunidade de estágio em **Desenvolvimento de Software 
 ## 🚀 Projetos em Destaque
 
 ---
-### 📡 [Sistema de Monitoramento IoT com ESP32](LINK_DO_SEU_REPO_ESP32_AQUI)
+### 📡 [Sistema de Monitoramento IoT com ESP32](https://github.com/R3I5/gasSensor))
 <p>
   Projeto de sistema embarcado focado em segurança residencial. Utiliza um microcontrolador ESP32 programado em <strong>C++</strong> para leitura de sensores de gás (MQ-02) e integração via Wi-Fi com uma interface Web para monitoramento em tempo real.
   <br><br>
