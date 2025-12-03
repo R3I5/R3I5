@@ -11,7 +11,7 @@
 
 Sou estudante de **Engenharia de Software** na PUCPR e **Técnico em Eletrônica** pelo IFPR.
 
-Minha trajetória começou na eletrônica e evoluiu para o desenvolvimento de software. Hoje, possuo uma **forte base em desenvolvimento Web e aplicações Full Stack**, e meu objetivo é unir esses dois mundos: criar interfaces robustas que se conectam a dispositivos físicos e soluções embarcadas.
+Minha trajetória começou na eletrônica e evoluiu para o desenvolvimento de software. Hoje, possuo uma **base em desenvolvimento Web e aplicações Full Stack**, e meu objetivo é unir esses dois mundos: criar interfaces robustas que se conectam a dispositivos físicos e soluções embarcadas.
 
 Busco uma oportunidade de estágio em **Desenvolvimento de Software** onde eu possa aplicar minha versatilidade, seja criando a lógica de um microcontrolador em C++ ou desenvolvendo a interface de controle desse sistema na Web.
 
