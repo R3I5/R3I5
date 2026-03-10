@@ -10,9 +10,9 @@
 
 ## 🚀 Sobre Mim
 
-Sou um entusiasta de tecnologia com uma trajetória que une a precisão da **Eletrônica** à versatilidade do **Desenvolvimento de Software**. Atualmente, curso Engenharia de Software na **PUCPR** e busco aplicar meus conhecimentos em soluções que integrem o mundo físico ao digital.
+Minha trajetória começou na **eletrônica** e evoluiu naturalmente para o **desenvolvimento de software**. Tenho base sólida em desenvolvimento Web Full Stack e experiência com sistemas embarcados — o que me permite atuar tanto na lógica de um microcontrolador em C++ quanto na interface de controle desse sistema na Web.
 
-Minha experiência transita entre o baixo nível (C/C++ para sistemas embarcados) e o ecossistema Web moderno (Laravel, React e Python). Sou movido pela resolução de problemas complexos e pela arquitetura de sistemas eficientes.
+Busco uma oportunidade de **estágio em Desenvolvimento de Software** onde possa aplicar essa versatilidade e contribuir com projetos que conectem o mundo físico ao digital.
 
 - 🎓 **Engenharia de Software** — PUCPR (Prev. 2028)
 - 🔌 **Técnico em Eletrônica** — IFPR
