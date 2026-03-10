@@ -1,13 +1,3 @@
-<div align="center">
-
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.victor.reis20044@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovictordosreis/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-
-</div>
-
-<br>
-
 ## 🚀 Sobre Mim
 
 Minha trajetória começou na **eletrônica** e evoluiu naturalmente para o **desenvolvimento de software**. Tenho base sólida em desenvolvimento Web Full Stack e experiência com sistemas embarcados — o que me permite atuar tanto na lógica de um microcontrolador em C++ quanto na interface de controle desse sistema na Web.
@@ -60,6 +50,15 @@ Busco uma oportunidade de **estágio em Desenvolvimento de Software** onde possa
 - **Diferencial:** Foco em UX/UI para estudantes e arquitetura de software organizada.
 - **Tech:** Laravel, React, Tailwind CSS, MySQL
 
+<div align="center">
+
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.victor.reis20044@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovictordosreis/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+
+</div>
+
+<br>
 
 ## 📝 Github Stats
 <div align="left">  
