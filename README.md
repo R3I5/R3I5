@@ -65,7 +65,7 @@ Busco uma oportunidade de estágio em **Desenvolvimento de Software** onde eu po
 ## 🚀 Projetos em Destaque
 
 ---
-### 📡 [Sistema de Monitoramento IoT Integrado à Web](https://github.com/R3I5/gasSensor)
+### 📡 gasSensor - [Sistema de Monitoramento IoT Integrado à Web](https://github.com/R3I5/gasSensor)
 <p>
   Projeto que demonstra a integração entre Hardware e Web. Utiliza um <strong>ESP32 (C++)</strong> para leitura de sensores de gás (MQ-02) e envia os dados via Wi-Fi para uma interface de monitoramento desenvolvida com tecnologias Web.
   <br><br>
