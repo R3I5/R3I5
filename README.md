@@ -1,106 +1,133 @@
-# Olá, pode me chamar de Reis! 👋
+<h1 align="center">Olá, eu sou o Reis! 👋</h1>
 
-<div align="center">
-  <a href="https://github.com/R3I5">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R3I5&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3I5&layout=compact&langs_count=7&theme=dracula"/>
+<p align="center">
+  Estudante de <strong>Engenharia de Software</strong> na PUCPR • <strong>Técnico em Eletrônica</strong> pelo IFPR<br>
+  Apaixonado por unir hardware e software — do microcontrolador à interface Web.
+</p>
+
+<p align="center">
+  <a href="mailto:j.victor.reis20044@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</div>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/joaovictordosreis/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <!-- Adicione seu portfólio/site pessoal se tiver -->
+  <!-- <a href="https://seusite.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a> -->
+</p>
+
+---
 
 ## 👨‍💻 Sobre Mim
 
-Sou estudante de **Engenharia de Software** na PUCPR e **Técnico em Eletrônica** pelo IFPR.
+Minha trajetória começou na eletrônica e evoluiu naturalmente para o desenvolvimento de software. Tenho base sólida em **desenvolvimento Web Full Stack** e experiência com **sistemas embarcados**, o que me permite atuar tanto na lógica de um microcontrolador em C++ quanto na interface de controle desse sistema na Web.
 
-Minha trajetória começou na eletrônica e evoluiu para o desenvolvimento de software. Hoje, possuo uma **base em desenvolvimento Web e aplicações Full Stack**, e meu objetivo é unir esses dois mundos: criar interfaces robustas que se conectam a dispositivos físicos e soluções embarcadas.
+Busco uma oportunidade de **estágio em Desenvolvimento de Software** onde possa aplicar essa versatilidade e contribuir com projetos que conectem o mundo físico ao digital.
 
-Busco uma oportunidade de estágio em **Desenvolvimento de Software** onde eu possa aplicar minha versatilidade, seja criando a lógica de um microcontrolador em C++ ou desenvolvendo a interface de controle desse sistema na Web.
+> 📍 Localização: Curitiba, PR &nbsp;|&nbsp; 🎓 Previsão de formatura: Dezembro/2028
 
-## 🛠️ Minha Tech Stack
+---
 
-<div align="center">
-  <table border="0" cellpadding="10">
-    <thead>
-      <tr>
-        <th align="center">Desenvolvimento Web & Software</th>
-        <th align="center">Engenharia, Hardware & IoT</th>
-        <th align="center">Banco de Dados & Ferramentas</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="center" valign="top">
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-          <br><br>
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-          <br><br>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-          <br><br>
-          <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-          <br><br>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        </td>
-        <td align="center" valign="top">
-          <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-          <br><br>
-          <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-          <br><br>
-          <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
-          <br><br>
-          <img src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-        </td>
-        <td align="center" valign="top">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-          <br><br>
-          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-          <br><br>
-          <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-          <br><br>
-          <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-        </td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+## 🛠️ Tech Stack
+
+<table align="center" border="0" cellpadding="8">
+  <tr>
+    <th align="center">🌐 Web & Software</th>
+    <th align="center">⚙️ Hardware & IoT</th>
+    <th align="center">🗄️ Banco de Dados & Ferramentas</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      <br>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white" />
+      <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+    </td>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
 
 ## 🚀 Projetos em Destaque
 
----
-### 📡 gasSensor - [Sistema de Monitoramento IoT Integrado à Web](https://github.com/R3I5/gasSensor)
-<p>
-  Projeto que demonstra a integração entre Hardware e Web. Utiliza um <strong>ESP32 (C++)</strong> para leitura de sensores de gás (MQ-02) e envia os dados via Wi-Fi para uma interface de monitoramento desenvolvida com tecnologias Web.
-  <br><br>
-  <strong>Tecnologias:</strong> C++, ESP32, Sensores, HTML, CSS, Protocolos Web.
-</p>
+<table border="0" cellpadding="10" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📡 <a href="https://github.com/R3I5/gasSensor">gasSensor — Monitoramento IoT</a></h3>
+      <p>
+        Integração completa entre <strong>hardware e web</strong>: um ESP32 lê sensores de gás (MQ-02) e transmite os dados via Wi-Fi para uma interface de monitoramento em tempo real desenvolvida com tecnologias Web.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+        <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💻 <a href="https://github.com/R3I5/ProjetoFinalRacAlgoritmico/tree/interface-grafica">Sistema de Gestão Desktop (CRUD)</a></h3>
+      <p>
+        Aplicação Desktop em <strong>Python</strong> com interface gráfica (CustomTkinter) para gerenciamento completo de vendas e estoque, incluindo manipulação de arquivos CSV/JSON.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CustomTkinter-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <!-- Adicione mais projetos aqui! Deixei um espaço para um terceiro projeto -->
+    <td width="50%" valign="top">
+      <h3>🔧 <!-- Nome do Projeto --> Em breve...</h3>
+      <p><!-- Descreva seu próximo projeto aqui --></p>
+    </td>
+    <td width="50%" valign="top">
+      <!-- Espaço para um quarto projeto, se quiser -->
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 💻 [Sistema de Gestão Desktop (CRUD)](https://github.com/R3I5/ProjetoFinalRacAlgoritmico/tree/interface-grafica)
-<p>
-  Aplicação Desktop desenvolvida em <strong>Python</strong> com interface gráfica (CustomTkinter). Realiza gerenciamento completo de vendas e estoque, demonstrando lógica de programação e manipulação de arquivos.
-  <br><br>
-  <strong>Tecnologias:</strong> Python, CustomTkinter, Manipulação de Arquivos (CSV/JSON).
-</p>
+## 📚 Atualmente Estudando
 
+🔗 Integração Hardware-Software  Em progresso
+🏗️  Laravel Framework (APIs REST)    Em progresso
+⚡  Algoritmos em C++           Em progresso
+<!-- Adicione outros cursos ou certificações aqui -->
 ---
 
-## 📚 Foco Atual nos Estudos
+## 📊 GitHub Stats
 
-Sempre buscando evoluir, atualmente estou aprofundando meus conhecimentos em:
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=R3I5&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  &nbsp;
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3I5&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
+</div>
 
--   **Integração Hardware-Software:** Protocolos de comunicação e sistemas embarcados.
--   **Laravel Framework:** Para desenvolvimento de APIs robustas.
--   **Algoritmos em C++:** Para otimização e performance em baixo nível.
-
-## 📫 Conecte-se Comigo!
-
-Estou sempre aberto para networking e novas oportunidades. Vamos conversar!
+---
 
 <p align="center">
-  <a href="mailto:j.victor.reis20044@gmail.com" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/joaovictordosreis/" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
+  <em>Aberto a oportunidades de estágio em Desenvolvimento de Software 🚀</em><br>
+  <strong>Vamos conversar?</strong> Me manda uma mensagem no LinkedIn ou por e-mail!
 </p>
