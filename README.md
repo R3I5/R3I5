@@ -58,15 +58,16 @@ Busco uma oportunidade de **estágio em Desenvolvimento de Software** onde possa
 ### 📚 [Papyrus](https://github.com/Papyrus-SM/papyrus) *(Projeto Universitário)*
 **O que é:** Plataforma de gestão acadêmica e organização de estudos.
 - **Diferencial:** Foco em UX/UI para estudantes e arquitetura de software organizada.
-- **Tech:** Python, SQLite, CustomTkinter.
+- **Tech:** Laravel, React, Tailwind CSS, MySQL
 
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R3I5&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3I5&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=R3I5&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=R3I5&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
 </div>
 
 <br>
