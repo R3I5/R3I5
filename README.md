@@ -60,4 +60,11 @@ Busco uma oportunidade de **estágio em Desenvolvimento de Software** onde possa
 - **Diferencial:** Foco em UX/UI para estudantes e arquitetura de software organizada.
 - **Tech:** Laravel, React, Tailwind CSS, MySQL
 
+
+## 📝 Github Stats
+<div align="left">  
+  <img width="49%" height="195px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api?username=R3I5&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&theme=radical" alt="Reis github stats"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats-lime-sigma-37.vercel.app/api/top-langs/?username=R3I5&layout=compact&hide_border=true&bg_color=0d1117&theme=dracula" />
+</div>
+
 ---
