@@ -1,7 +1,5 @@
 <div align="center">
 
-  ![banner](https://capsule-render.vercel.app/api?type=waving&color=6A0DAD,3B0F6B&height=200&section=header&text=João%20Victor%20dos%20Reis&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full%20Stack%20%26%20Embedded&descSize=16&descAlignY=58&animation=fadeIn)
-
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.victor.reis20044@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovictordosreis/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
@@ -52,12 +50,12 @@ Minha experiência transita entre o baixo nível (C/C++ para sistemas embarcados
 - **Diferencial:** Utiliza um ESP32 para leitura de sensores MQ-02, enviando dados via protocolo HTTP para um dashboard web em tempo real.
 - **Tech:** C++, ESP32, HTML/CSS, WebSockets.
 
-### 🏛️ [PhiloWay](https://github.com/R3I5) *(Em Desenvolvimento)*
+### 🏛️ [PhiloWay](https://github.com/R3I5/philoway) *(Em Desenvolvimento)*
 **O que é:** Aplicação Web para mapeamento de conexões entre filósofos históricos.
 - **Diferencial:** Focado em visualização de dados e relações complexas de banco de dados.
 - **Tech:** Laravel, React, Tailwind CSS.
 
-### 📚 [Papyrus](https://github.com/R3I5) *(Projeto Universitário)*
+### 📚 [Papyrus](https://github.com/Papyrus-SM/papyrus) *(Projeto Universitário)*
 **O que é:** Plataforma de gestão acadêmica e organização de estudos.
 - **Diferencial:** Foco em UX/UI para estudantes e arquitetura de software organizada.
 - **Tech:** Python, SQLite, CustomTkinter.
