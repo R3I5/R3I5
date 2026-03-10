@@ -1,125 +1,74 @@
 <div align="center">
 
-  ![banner](https://capsule-render.vercel.app/api?type=waving&color=6A0DAD,3B0F6B&height=200&section=header&text=João%20Victor%20dos%20Reis&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Embedded%20Systems%20%26%20Web%20Dev&descSize=16&descAlignY=58&animation=fadeIn)
+  ![banner](https://capsule-render.vercel.app/api?type=waving&color=6A0DAD,3B0F6B&height=200&section=header&text=João%20Victor%20dos%20Reis&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Full%20Stack%20%26%20Embedded&descSize=16&descAlignY=58&animation=fadeIn)
+
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:j.victor.reis20044@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovictordosreis/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
 </div>
 
 <br>
 
-<div align="center">
-  <a href="mailto:j.victor.reis20044@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/joaovictordosreis/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <!-- Descomente se tiver portfólio:
-  <a href="https://seusite.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  -->
-</div>
+## 🚀 Sobre Mim
 
-<br>
+Sou um entusiasta de tecnologia com uma trajetória que une a precisão da **Eletrônica** à versatilidade do **Desenvolvimento de Software**. Atualmente, curso Engenharia de Software na **PUCPR** e busco aplicar meus conhecimentos em soluções que integrem o mundo físico ao digital.
 
----
+Minha experiência transita entre o baixo nível (C/C++ para sistemas embarcados) e o ecossistema Web moderno (Laravel, React e Python). Sou movido pela resolução de problemas complexos e pela arquitetura de sistemas eficientes.
 
-## 👨‍💻 Sobre Mim
-
-Minha trajetória começou na **eletrônica** e evoluiu naturalmente para o **desenvolvimento de software**. Tenho base sólida em desenvolvimento Web Full Stack e experiência com sistemas embarcados — o que me permite atuar tanto na lógica de um microcontrolador em C++ quanto na interface de controle desse sistema na Web.
-
-Busco uma oportunidade de **estágio em Desenvolvimento de Software** onde possa aplicar essa versatilidade e contribuir com projetos que conectem o mundo físico ao digital.
-
-
-🎓 Engenharia de Software — PUCPR         📍 Curitiba, PR
-🔌 Técnico em Eletrônica — IFPR           🗓️  Formatura: Dezembro/2028
-
+- 🎓 **Engenharia de Software** — PUCPR (Prev. 2028)
+- 🔌 **Técnico em Eletrônica** — IFPR
+- 📍 Curitiba, PR - Brasil
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+### 🌐 Web & Backend
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-**🌐 Web & Software**
+### ⚙️ Hardware & IoT
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-
-**⚙️ Hardware & IoT**
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-
-**🗄️ Banco de Dados & Ferramentas**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-</div>
+### 🗄️ Infra & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-## 🚀 Projetos em Destaque
+## 📂 Projetos em Destaque
 
-<table border="0" cellpadding="12" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📡 <a href="https://github.com/R3I5/gasSensor">gasSensor — Monitoramento IoT</a></h3>
-      <p>
-        Integração completa entre <strong>hardware e web</strong>: um ESP32 lê sensores de gás (MQ-02) e transmite os dados via Wi-Fi para uma interface de monitoramento em tempo real.
-      </p>
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-      <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
-      <img src="https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>💻 <a href="https://github.com/R3I5/ProjetoFinalRacAlgoritmico/tree/interface-grafica">Sistema de Gestão Desktop (CRUD)</a></h3>
-      <p>
-        Aplicação Desktop em <strong>Python</strong> com interface gráfica (CustomTkinter) para gerenciamento completo de vendas e estoque, com manipulação de arquivos CSV/JSON.
-      </p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/CustomTkinter-3776AB?style=flat-square&logo=python&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔧 Em breve...</h3>
-      <p><em>Novo projeto a caminho — fique de olho!</em></p>
-    </td>
-    <td width="50%" valign="top">
-      <!-- Espaço para um quarto projeto -->
-    </td>
-  </tr>
-</table>
+### 📡 [gasSensor — Monitoramento IoT](https://github.com/R3I5/gasSensor)
+**O que é:** Sistema end-to-end de segurança residencial.
+- **Diferencial:** Utiliza um ESP32 para leitura de sensores MQ-02, enviando dados via protocolo HTTP para um dashboard web em tempo real.
+- **Tech:** C++, ESP32, HTML/CSS, WebSockets.
+
+### 🏛️ [PhiloWay](https://github.com/R3I5) *(Em Desenvolvimento)*
+**O que é:** Aplicação Web para mapeamento de conexões entre filósofos históricos.
+- **Diferencial:** Focado em visualização de dados e relações complexas de banco de dados.
+- **Tech:** Laravel, React, Tailwind CSS.
+
+### 📚 [Papyrus](https://github.com/R3I5) *(Projeto Universitário)*
+**O que é:** Plataforma de gestão acadêmica e organização de estudos.
+- **Diferencial:** Foco em UX/UI para estudantes e arquitetura de software organizada.
+- **Tech:** Python, SQLite, CustomTkinter.
 
 ---
 
-## 📚 Atualmente Estudando
-
-
-🔗 Integração Hardware-Software     Em progresso
-🏗️  Laravel Framework (APIs REST)   Em progresso
-⚡  Algoritmos em C++                Em progresso
-
----
-
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=R3I5&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-  &nbsp;
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3I5&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=R3I5&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R3I5&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
 </div>
 
 <br>
